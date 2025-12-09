@@ -11,9 +11,6 @@ A simple e-commerce demo built with React, using FakeStore API. Features: produc
 - React Hook Form + Yup
 - Tailwind CSS (optional)
 
-**Live Demo**
-https://your-vercel-link.vercel.app
-
 **Run locally**
 ```bash
 npm install
