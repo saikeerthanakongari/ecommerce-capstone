@@ -51,7 +51,7 @@ export const products = [
     id: 7,
     title: "Leather Backpack",
     price: 79.99,
-    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1622560257067-108402fcedc0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGVhdGhlciUyMGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
     description: "Durable leather backpack perfect for daily commute or travel.",
     category: "Fashion"
   },
@@ -69,7 +69,7 @@ export const products = [
     title: "VR Gaming Headset",
     price: 24.99,
     // SWITCHED TO PEXELS SOURCE
-    image: "https://images.pexels.com/photos/4009599/pexels-photo-4009599.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.unsplash.com/photo-1661313382660-ca45d911a827?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHZyJTIwZ2FtaW5nfGVufDB8fDB8fHww",
     description: "Immersive virtual reality headset for an unparalleled gaming experience.",
     category: "Electronics"
   },
@@ -85,7 +85,7 @@ export const products = [
     id: 11,
     title: "Denim Jacket",
     price: 65.00,
-    image: "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1537465978529-d23b17165b3b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGVuaW0lMjBqYWNrZXR8ZW58MHx8MHx8fDA%3D",
     description: "Classic blue denim jacket that goes with every outfit.",
     category: "Fashion"
   },
@@ -109,7 +109,7 @@ export const products = [
     id: 14,
     title: "Coffee Set",
     price: 40.00,
-    image: "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=905&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Handcrafted ceramic mug and saucer set for coffee lovers.",
     category: "Home"
   },
@@ -117,7 +117,7 @@ export const products = [
     id: 15,
     title: "Leather Wallet",
     price: 49.99,
-    image: "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&w=600&q=80",
+    image: "https://plus.unsplash.com/premium_photo-1676999224991-8f3d35dbde54?q=80&w=677&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Slim genuine leather wallet with RFID protection.",
     category: "Fashion"
   }
